@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jnrkal
+- 👋 Hi, I’m @Xedxpace
 - 👀 I’m interested in coding and graphic design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
